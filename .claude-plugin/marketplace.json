@@ -1,0 +1,14 @@
+{
+  "name": "jjbrandon8-leer-pdf",
+  "description": "PDF reader with OCR for Claude, by jjbrandon8.",
+  "owner": { "name": "jjbrandon8", "url": "https://github.com/jjbrandon8" },
+  "plugins": [
+    {
+      "name": "leer-pdf",
+      "source": "./",
+      "description": "Reads PDFs page by page with OCR in Spanish and English, permissive licenses only.",
+      "version": "1.0.0",
+      "license": "MIT"
+    }
+  ]
+}

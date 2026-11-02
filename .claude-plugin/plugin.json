@@ -1,0 +1,9 @@
+{
+  "name": "leer-pdf",
+  "version": "1.0.0",
+  "description": "Reads PDFs (URL or file) page by page with OCR in Spanish and English, using only permissively licensed open source tools (pypdf, pypdfium2, Tesseract).",
+  "author": { "name": "jjbrandon8", "url": "https://github.com/jjbrandon8" },
+  "repository": "https://github.com/jjbrandon8/leer-pdf",
+  "license": "MIT",
+  "keywords": ["pdf", "ocr", "tesseract", "spanish", "espanol", "citations"]
+}
